@@ -1,0 +1,87 @@
+.producttitle {
+    font-weight: bold;
+}
+
+.produit {
+    float:left;
+    width: 350px;
+    height: 500px;
+
+}
+
+.pageproduit {
+    margin-top: 100px;
+}
+
+.description {
+    width: 40%;
+    float:left;
+    margin-left:90px;
+    border-top: 2px solid grey;
+    padding-top: 10px;
+}
+.cart {
+    margin-left: 40px;
+    padding-top: 10px;
+    float: left;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    width:200px;
+    height: 200px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.stock {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Flight", Verdana, Tahoma;
+}
+
+.descproduit {
+    font-size: 15px;
+    text-align: left;
+    margin:0 0 0 -30px;
+    padding: 0 0 0 10px;
+    font-family: "Flight", Verdana, Tahoma;
+}
+
+.description label {
+    font-family: "Flight", Verdana, Tahoma;
+    font-size: 18px;
+}
+
+.description p {
+    font-family: "Flight", Verdana, Tahoma;
+    font-size: 18px;
+}
+
+.prix {
+    font-family: "Flight", Verdana, Tahoma;
+    color: #960023;
+    font-size: 20px;
+}
+
+.image {
+    float:left;
+    width: 350px;
+    height: 500px;
+
+}
+
+.image:hover {
+    opacity: .8;
+}
+
+
+nav li {
+    display: inline;
+    padding: 0px 15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.quantity {
+    width:50px;
+    height:30px;
+}

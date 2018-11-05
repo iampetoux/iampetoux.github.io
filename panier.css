@@ -1,0 +1,74 @@
+body {
+    background-color: #F1F1F1;
+}
+
+.panier {
+    text-align: center;
+    width: 70%;
+    margin-left:30px;
+    box-shadow:0 2px 2px #ccc;
+    background-color: white;
+}
+
+.top {
+    border-bottom: 1px solid white;
+}
+
+.title {
+    font: bold 30px Cookie, Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.info {
+    align: center;
+    font: normal 20px Cookie, Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    cellpadding: 10;
+    width: 50%;
+}
+
+.produit {
+    width: 150px;
+    height:200px;
+}
+
+.info th, td {
+    text-align: center;
+}
+
+.tr td{
+    color: grey;
+}
+
+th, td {
+    background-color: white;
+}
+
+h1 {
+    font: normal 27px Cookie, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+label {
+    font: normal 20px Cookie, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #960023;
+}
+
+.quantity {
+    border: 1px solid grey;
+    width: 50px;
+
+    border-radius: 5px;
+}
+
+.pay {
+    box-shadow:0 2px 2px #ccc;
+    background-color: white;
+    text-align: center;
+    width:250px;
+
+    float:right;
+    margin-top: -291px;
+    margin-right:50px;
+}
