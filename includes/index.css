@@ -1,3 +1,8 @@
 body {
-    background-color: orangered;
+    background: orangered;
+}
+
+.title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
